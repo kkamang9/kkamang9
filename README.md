@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=30:bb99ff,76:eeaaff&height=200&section=header&text=Wellcome&fontSize=80&desc=This%20is%20KKAMSNG's%20Portfolio&descSize=28&desccolor&descAlignY=70&stroke=eeaaff&animation=fadeIn)
 
 <div style="text-align:center;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkamang9&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kkamang9&show_icons=true&theme=dark" />
 ![Kkamang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamang9&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamang9&layout=compact&theme=dark)
 </div>
