@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=30:bb99ff,70:eeaaff&height=200&section=header&text=Wellcome&fontSize=80textBg=true)
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
-### Hi there 👋
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+![header](https://capsule-render.vercel.app/api?type=venom&color=30:bb99ff,70:eeaaff&height=200&section=header&text=Wellcome&fontSize=90textBg=true)
 
 ![Kkamang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamang9&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamang9&layout=compact&theme=dark)
