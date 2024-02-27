@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:bb99ff,0:eeaaff&height=300&section=header&text=I%20am%20Kkamang&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=vanom&color=0:bb99ff,0:eeaaff&height=300&section=header&text=I%20am%20Kkamang&fontSize=90)
 
 ### Hi there 👋
 
