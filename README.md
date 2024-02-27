@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=30:bb99ff,70:eeaaff&height=200&section=header&text=Wellcome&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=30:bb99ff,70:eeaaff&height=200&section=header&text=Wellcome&fontSize=80textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
