@@ -2,8 +2,9 @@
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
-[![Kkamang's HTML stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Kkamang's HTML stats](https://github-readme-stats.vercel.app/api?username=kkamang9)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <!--
 **kkamang9/kkamang9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
