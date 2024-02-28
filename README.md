@@ -1,25 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=30:bb99ff,76:eeaaff&height=200&section=header&text=Wellcome&fontSize=80&desc=This%20is%20KKAMSNG's%20Portfolio&descSize=28&desccolor&descAlignY=70&stroke=eeaaff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=30:bb99ff,76:eeaaff&height=200&section=header&text=Wellcome&fontSize=80&desc=This%20is%20KKAMSNG's%20Portfolio&descSize=28&desccolor&descAlignY=70&stroke=eeaaff&animation=fadeIn" /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=kkamang9&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkamang9&layout=compact&theme=dark" />
 </div>
-![header](https://capsule-render.vercel.app/api?type=venom&color=30:bb99ff,76:eeaaff&height=200&section=header&text=Wellcome&fontSize=80&desc=This%20is%20KKAMSNG's%20Portfolio&descSize=28&desccolor&descAlignY=70&stroke=eeaaff&animation=fadeIn)
-
-<!--![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api?username=kkamang9&show_icons=true&theme=dark)-->
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamang9&layout=compact&theme=dark)
-
-<!--
-**kkamang9/kkamang9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
