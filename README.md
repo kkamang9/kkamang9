@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=1000&color=CCAAFF&center=true&vCenter=true&random=false&width=1000&lines=This+is+KKAMANG%E2%80%99s+Github+space)
 
 <div align="center">
-  <h2>Skills</h2>
+  <h2>Skills & Tools</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
