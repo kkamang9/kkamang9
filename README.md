@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=30:bb99ff,76:eeaaff&height=200&section=header&text=Wellcome!!&fontSize=52&fontAlignY=50&stroke=eeaaff&animation=fadeIn)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=6000&pause=1000&color=CCAAFF&center=true&vCenter=true&random=false&width=1000&lines=This+is+KKAMANG%E2%80%99s+Github+space)
 
-## <center>Skills</center>
+##<center>Skills</center>
 
 <center>![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</center>
 <center>![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)</center>
