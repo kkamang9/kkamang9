@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=30:bb99ff,76:eeaaff&height=200&section=header&text=Wellcome!&fontSize=62&stroke=eeaaff&desc=KKAMSNG's%20Portfolio&descSize=50&animation=fadeIn" /><br />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=30:bb99ff,76:eeaaff&height=200&section=header&text=Wellcome!&fontSize=62&fontAlignY=0&stroke=eeaaff&desc=KKAMSNG's%20Portfolio&descSize=36&animation=fadeIn" /><br />
   <img width="335px" height="140px" src="https://github-readme-stats.vercel.app/api?username=kkamang9&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkamang9&layout=compact&theme=dark" />
 </div>
