@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=30:bb99ff,76:eeaaff&height=200&section=header&text=Wellcome!!&fontSize=52&fontAlignY=50&stroke=eeaaff&animation=fadeIn)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=6000&pause=1000&color=CCAAFF&center=true&vCenter=true&random=false&width=1000&lines=This+is+KKAMANG%E2%80%99s+Github+space)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=1000&color=CCAAFF&center=true&vCenter=true&random=false&width=1000&lines=This+is+KKAMANG%E2%80%99s+Github+space)
 
 <div align="center">
   <h2>Skills</h2>
